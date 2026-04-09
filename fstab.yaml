@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p194352-e2014402.adobeaemcloud.com/bin/franklin.delivery/kwyjibo824/aem-boilerplate-2/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://content.da.live/kwyjibo824/aem-boilerplate-2
